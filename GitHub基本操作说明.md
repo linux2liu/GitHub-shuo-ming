@@ -11,5 +11,6 @@
     1.点右上角的+---New repository 
 
 上传文件Upload files 
-9、上传文件Upload files
+9、上传文件Upload files （我上传的是GitHub基本操作说明.md 文件和图片）
 10、Commit changes 提交
+11、提交之后就可以看到自己的上传的文件了，还可对文件进行在线修改。
